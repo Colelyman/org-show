@@ -1,0 +1,9 @@
+#+TITLE: org-show - A simple Emacs package to give presentations directly from org-mode.
+* About
+org-show is an Emacs package to give presentations directly from org-mode that was originally created by [[https://github.com/jkitchin][John Kitchin]] and [[https://github.com/sachac][Sacha Chua]].
+* Installation
+Coming soon.
+** Dependencies
+org-show currently requires the following dependencies:
+  - animate :: installed by default in Emacs 
+  - easymenu :: installed by default in Emacs
